@@ -1,2 +1,9 @@
+# Maven build files
 target/*
+*.iml
+# IDE created files
 .idea
+# UML modeling 
+*.zargo
+# Temporary and swap files
+*.*~
